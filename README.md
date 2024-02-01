@@ -13,11 +13,10 @@ This repository contains the source code and documentation for an ATM (Automated
 - ***PIN Authentication:*** Ensures secure access to the account.
 
 ## Usage
-Run the calculator:
+Run the Project:
 ```bash
 npx 02_atm
 ```
-Follow the prompt to perform calculations with style!
 
 ## Dependencies
 `Inquirer`: Provides the interactive prompt interface.
