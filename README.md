@@ -1,13 +1,13 @@
-#ATM Project
+# ATM Project
 
 ## Overview
 This repository contains the source code and documentation for an ATM (Automated Teller Machine) project. The project aims to simulate the functionality of an ATM, allowing users to perform various banking transactions.
 
 ## Features
-Account Balance Inquiry: Users can check their account balance.
-Cash Withdrawal: Withdraw cash from the linked account.
-Deposit Functionality: Deposit money into the account.
-PIN Authentication: Ensures secure access to the account.
+-***Account Balance Inquiry:*** Users can check their account balance.
+-***Cash Withdrawal:*** Withdraw cash from the linked account.
+-***Deposit Functionality:*** Deposit money into the account.
+-***PIN Authentication:*** Ensures secure access to the account.
 
 ## Usage
 Run the calculator:
